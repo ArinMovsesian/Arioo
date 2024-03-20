@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.612 20.044">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d074e6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 7px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="bio" transform="translate(-1121.146 -277.802)">
+    <path id="Icon_Background" data-name="Icon Background" class="cls-1" d="M0,4.493A4.558,4.558,0,0,1,4.62,0H15.992a4.558,4.558,0,0,1,4.62,4.493V15.552a4.558,4.558,0,0,1-4.62,4.493H4.62A4.558,4.558,0,0,1,0,15.552V4.493Z" transform="translate(1121.146 277.802)"/>
+    <text id="Bio-2" data-name="Bio" class="cls-2" transform="translate(1131.412 290.492)"><tspan x="-5.141" y="0">Bio</tspan></text>
+  </g>
+</svg>

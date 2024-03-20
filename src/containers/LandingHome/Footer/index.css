@@ -1,0 +1,43 @@
+.footer-list {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  justify-content: center;
+}
+
+.footer-list li {
+  padding: 20px 5px;
+  margin: 0 25px;
+}
+
+.footer-list li span {
+  font-size: 15px;
+  font-weight: bold;
+  color: #2A2E43;
+}
+
+.mobileviewFooter {
+  display: none;
+}
+
+.desktopviewFooter {
+  display: block;
+}
+
+.mobileviewFooter ul li {
+  color: #2A2E43;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 700px) {
+  .mobileviewFooter {
+    display: block;
+  }
+
+  .desktopviewFooter {
+    display: none;
+  }
+}

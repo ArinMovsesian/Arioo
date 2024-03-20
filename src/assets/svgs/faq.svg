@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #515c8b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="faq" transform="translate(-164 -521)">
+    <g id="question-help-icon--svg-png-----orion-icon-library" transform="translate(167 524)">
+      <circle id="layer2" class="cls-1" cx="7.449" cy="7.449" r="7.449" transform="translate(2 2)"/>
+      <path id="layer1" class="cls-1" d="M24,18.869A1.938,1.938,0,0,1,26.1,17a1.84,1.84,0,0,1,1.87,1.869,2.571,2.571,0,0,1-1.007,1.877c-.861.861-.979,1.308-.979,1.717v.5" transform="translate(-16.538 -11.276)"/>
+      <circle id="layer1-2" data-name="layer1" class="cls-1" cx="0.497" cy="0.497" r="0.497" transform="translate(8.952 12.676)"/>
+    </g>
+    <rect id="Rectangle_2342" data-name="Rectangle 2342" class="cls-2" width="25" height="25" transform="translate(164 521)"/>
+  </g>
+</svg>

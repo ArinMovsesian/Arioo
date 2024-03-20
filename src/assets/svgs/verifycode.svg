@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1227 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27ffae"/>
+      <stop offset="1" stop-color="#0f217e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2160" data-name="Rectangle 2160" class="cls-1" width="1227" height="1080"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d42fc"/>
+      <stop offset="1" stop-color="#00ffdc"/>
+    </linearGradient>
+  </defs>
+  <g id="verifycode" class="cls-2">
+    <g id="Group_1140" data-name="Group 1140" transform="translate(-1435.259 745.409) rotate(-48)">
+      <path id="Path_981" data-name="Path 981" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+    </g>
+    <g id="Group_1141" data-name="Group 1141" transform="translate(-1082.679 1563.448) rotate(-84)">
+      <path id="Path_982" data-name="Path 982" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+      <path id="Path_983" data-name="Path 983" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+    </g>
+  </g>
+</svg>

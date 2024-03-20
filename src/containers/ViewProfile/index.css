@@ -1,0 +1,315 @@
+.profile-view-container{
+  width: 100%;
+  height: 100%;
+}
+
+.profile-view-container .logo{
+  background-image: url('../../assets/svgs/logoNewLightBlue.png');
+  width: 59px;
+  height: 59px;
+  flex-grow: 1;
+  background-repeat: no-repeat;
+  margin-left: 35px;
+}
+
+.profile-view-container .ant-layout-header{
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.profile-view-container .ant-layout-header ul{
+  border-bottom: 0;
+  line-height: 34px;
+}
+
+.profile-view-container .ant-layout-header ul .ant-menu-item-active{
+  color: #707070;
+}
+
+.profile-view-container .ant-layout-header ul .ant-menu-item-selected{
+  border: 1px solid #2094FA;
+  background-color: #FFFFFF;
+  color: #707070;
+}
+
+.profile-view-container .ant-layout{
+  background-color: transparent;
+}
+
+.profile-view-container .ant-layout-header, .profile-view-container .ant-menu-dark.ant-menu-horizontal,
+.profile-view-container .ant-menu-dark{
+  background-color: transparent;
+}
+
+.profile-view-container .ant-menu-dark .ant-menu-horizontal {
+   border-bottom-color: #e8e8e8!important;
+}
+
+
+.profile-view-container .ant-menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.profile-view-container .ant-menu-dark .ant-menu-item{
+  color: #9F9F9F;
+}
+
+.profile-view-container .ant-layout-header{
+  border-bottom: 1px solid #e8e8e8;
+
+}
+
+.profile-view-container.ant-menu-dark .ant-menu-horizontal{
+  border-bottom: 1px solid #e8e8e8;
+
+}
+
+.profile-view-container .ant-menu-dark {
+  color: #707070;
+}
+
+.profile-view-container .ant-menu-item{
+  color: #707070;
+}
+
+.profile-view-container .ant-layout-sider {
+  border-right: 1px solid #E8E8E8;
+}
+
+.profile-view-container .ant-layout-sider-children{
+  padding: 0 20px 0 100px;
+}
+
+.base-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.profile-image-container {
+  width: 84px;
+  height: 84px;
+  background-color: lightgrey;
+  border-radius: 18px;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  padding-left: 16px;
+}
+
+.info span{
+  color: #2A2E43;
+  font-size: 16px;
+  text-align: left;
+  line-height: 19px;
+}
+
+.info a{
+  color: #2094FA;
+  font-size: 11px;
+  text-align: left;
+  line-height: 13px;
+}
+
+.profile-content{
+  padding: 26px 0 12px 0;
+}
+
+.profile-content span{
+  font-size: 15px;
+  color: #000;
+  line-height: 18px;
+  text-align: left;
+}
+
+.list-info{
+  padding-left: 0;
+}
+
+.list-info li{
+  display: flex;
+  flex-direction: row;
+  margin-top: 13px;
+}
+
+.list-info li img{
+  width: 19px;
+  height: 21px;
+}
+
+.list-info li div{
+  display: flex;
+  flex-direction: column;
+  padding-left: 5px;
+}
+
+.social-icons{
+  width: 100%;
+  display: flex;
+}
+
+.social-icons img{
+  width: 38px;
+  height: 32px;
+  padding: 5px 5px;
+}
+
+.send-msg-profile{
+  width: 100%;
+  margin-top: 68px;
+}
+
+.send-msg-profile button{
+  width: 184px;
+  height: 39px;
+  background-color: #2094FA;
+  border-radius: 20px;
+  color: #FFFFFF;
+}
+.profile-celebrities{
+  width: 100%;
+  padding: 30px 50px 0 10px;
+}
+
+
+.cel-list{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+}
+.cel-list li{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.cel-info-wrap{
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+.cel-info-base{
+  display: flex;
+  flex-direction: column;
+}
+
+.cel-menu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+
+.cel-menu{
+  color: #9F9F9F;
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.cel-menu a{
+  color: #2094FA;
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.store-menu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.store-menu span{
+  color: #9F9F9F;
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.store-menu a{
+  color: #2094FA;
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.app-container .media-photo{
+ width: 58px;
+  height: 58px;
+}
+
+.app-container .media-list{
+  width: 100%;
+  justify-content: space-between;
+}
+
+.app-container .media-list li{
+ margin: 25px 0;
+}
+
+.profile-favorite-app{
+  width: 100%;
+  padding: 35px 25px;
+}
+
+.store-container .ant-col-14{
+  border-right: 1px solid #E8E8E8;
+  height: 600px;
+}
+
+.cel-list li button{
+  width: 52px;
+  height: 24px;
+  border-radius: 12px;
+  background-color: #2094FA;
+  color: #FFFFFF;
+  font-size: 10px;
+}
+
+.p-date{
+  color: #9F9F9F;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.id-date-info{
+  color: #2A2E43;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: left;
+}
+
+.cel-info-name{
+  color: #2A2E43;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: left;
+}
+
+.cel-info-member{
+  color: #9F9F9F;
+  font-size: 10px;
+  line-height: 13px;
+  text-align: left;
+}

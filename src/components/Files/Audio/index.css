@@ -1,0 +1,9 @@
+.size-column{
+  margin-left: 67px;
+}
+
+.size-column span {
+  font-size: 15px;
+  text-align: left;
+  color: #9F9F9F;
+}

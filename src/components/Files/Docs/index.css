@@ -1,0 +1,48 @@
+.doc-list{
+  padding-left: 0;
+}
+
+.doc-list li{
+  display: flex;
+  flex-direction: row;
+  /*align-items: center;*/
+  width: 100%;
+  margin-bottom: 39px;
+}
+.docs-name{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+.docs-name span{
+  font-family: "Roboto Regular";
+  font-size: 15px;
+  text-align: left;
+  line-height: 18px;
+  color: #2A2E43;
+}
+
+.doc-size{
+  font-family: "Roboto Regular";
+  font-size: 15px;
+  text-align: left;
+  line-height: 18px;
+  color: #9F9F9F;
+}
+
+.docs-photo{
+  width: 40px;
+  height: 40px;
+  background-color: #2094FA;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-icon{
+  width: 20px;
+  height: 20px;
+}

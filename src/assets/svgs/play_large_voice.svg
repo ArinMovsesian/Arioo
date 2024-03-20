@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="play_large_voice" transform="translate(-2417.4 -188)">
+    <g id="Group_377" data-name="Group 377" transform="translate(2368 188)">
+      <path id="Path_860" data-name="Path 860" class="cls-1" d="M71.932,12.641,61.576,6.7A2.466,2.466,0,0,0,57.9,8.78V20.668a2.415,2.415,0,0,0,3.676,2.083l10.294-5.944A2.391,2.391,0,0,0,71.932,12.641Z" transform="translate(-3.292 -2.469)"/>
+      <rect id="Rectangle_209" data-name="Rectangle 209" class="cls-2" width="25" height="25" transform="translate(49.4)"/>
+    </g>
+  </g>
+</svg>

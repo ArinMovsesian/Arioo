@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1260 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27ffae"/>
+      <stop offset="1" stop-color="#0f217e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2159" data-name="Rectangle 2159" class="cls-1" width="1260" height="1080"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d42fc"/>
+      <stop offset="1" stop-color="#00ffdc"/>
+    </linearGradient>
+  </defs>
+  <g id="singup-phoneno" class="cls-2">
+    <g id="Group_1138" data-name="Group 1138" transform="translate(-1402.707 943.84) rotate(-56)">
+      <path id="Path_978" data-name="Path 978" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+    </g>
+    <g id="Group_1139" data-name="Group 1139" transform="translate(-939.709 1704.848) rotate(-92)">
+      <path id="Path_979" data-name="Path 979" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+      <path id="Path_980" data-name="Path 980" class="cls-3" d="M0,912.528H0C0,410.637,410.638,0,912.528,0h0c501.89,0,912.528,410.637,912.528,912.528V1770.3c0,27.376-27.376,54.752-54.752,54.752H912.528C410.638,1825.055,0,1414.418,0,912.528Z" transform="translate(493.806 -182.757) rotate(19)"/>
+    </g>
+  </g>
+</svg>

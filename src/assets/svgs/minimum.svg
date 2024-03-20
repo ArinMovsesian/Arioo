@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bbb;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="minimum" transform="translate(-546 -18)">
+    <path id="Subtraction_11" data-name="Subtraction 11" class="cls-1" d="M-7228.82,9.263a.712.712,0,0,1-.5-.207.673.673,0,0,1-.214-.483.673.673,0,0,1,.214-.483l1.278-1.245h-7.461V5.462h7.391l-1.207-1.176a.673.673,0,0,1-.214-.483.673.673,0,0,1,.214-.483.762.762,0,0,1,.535-.217.783.783,0,0,1,.459.148l2.416,2.35a.832.832,0,0,1,.286.553.526.526,0,0,1-.213.484l-2.488,2.419A.712.712,0,0,1-7228.82,9.263Z" transform="translate(7787.5 21.898)"/>
+    <rect id="Rectangle_2366" data-name="Rectangle 2366" class="cls-2" width="21" height="21" transform="translate(546 18)"/>
+  </g>
+</svg>

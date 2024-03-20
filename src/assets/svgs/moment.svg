@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.612 20.044">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff9500;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="moment" transform="translate(-1122.567 -437.988)">
+    <path id="Icon_Background" data-name="Icon Background" class="cls-1" d="M0,4.493A4.558,4.558,0,0,1,4.62,0H15.992a4.558,4.558,0,0,1,4.62,4.493V15.552a4.558,4.558,0,0,1-4.62,4.493H4.62A4.558,4.558,0,0,1,0,15.552V4.493Z" transform="translate(1122.567 437.988)"/>
+    <g id="Group_1145" data-name="Group 1145" transform="translate(1128.964 442.826)">
+      <rect id="Rectangle_46" data-name="Rectangle 46" class="cls-2" width="8.493" height="6.057" rx="1"/>
+      <rect id="Rectangle_48" data-name="Rectangle 48" class="cls-2" width="7.361" height="1.101" rx="0.551" transform="translate(0.566 7.1)"/>
+      <rect id="Rectangle_49" data-name="Rectangle 49" class="cls-2" width="5.096" height="1.101" rx="0.551" transform="translate(1.699 9.244)"/>
+    </g>
+  </g>
+</svg>

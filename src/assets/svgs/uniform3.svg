@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 893.667 766">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27ffae"/>
+      <stop offset="1" stop-color="#0f217e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2316" data-name="Rectangle 2316" class="cls-1" width="893.667" height="766"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d42fc"/>
+      <stop offset="1" stop-color="#00ffdc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x2="0.677" y2="1.093" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="uniform3" class="cls-2">
+    <g id="Group_1237" data-name="Group 1237" transform="translate(-1162.821 474.573) rotate(-47)">
+      <path id="Path_997" data-name="Path 997" class="cls-3" d="M0,647.219H0C0,291.248,291.248,0,647.219,0h0c355.97,0,647.219,291.248,647.219,647.219V1255.6c0,19.417-19.417,38.833-38.833,38.833H647.219C291.248,1294.437,0,1003.189,0,647.219Z" transform="translate(421.428) rotate(19)"/>
+    </g>
+    <g id="Group_1238" data-name="Group 1238" transform="translate(-793.556 1284.851) rotate(-92)">
+      <path id="Path_998" data-name="Path 998" class="cls-4" d="M0,647.219H0C0,291.248,291.248,0,647.219,0h0c355.97,0,647.219,291.248,647.219,647.219V1255.6c0,19.417-19.417,38.833-38.833,38.833H647.219C291.248,1294.437,0,1003.189,0,647.219Z" transform="translate(585.773 -61.446) rotate(30)"/>
+      <path id="Path_999" data-name="Path 999" class="cls-4" d="M0,647.219H0C0,291.248,291.248,0,647.219,0h0c355.97,0,647.219,291.248,647.219,647.219V1255.6c0,19.417-19.417,38.833-38.833,38.833H647.219C291.248,1294.437,0,1003.189,0,647.219Z" transform="matrix(0.777, -0.629, 0.629, 0.777, -91.285, 831.953)"/>
+    </g>
+  </g>
+</svg>

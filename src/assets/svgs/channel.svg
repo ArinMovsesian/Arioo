@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #515c8b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <g id="channel" transform="translate(-21 -400)">
+    <g id="Orion_megaphone" transform="translate(24 399)">
+      <path id="layer2" class="cls-1" d="M20,38c0,1.413,0,3.3,2.356,4.24" transform="translate(-13.76 -22.933)"/>
+      <path id="layer1" class="cls-1" d="M20,18v4.711" transform="translate(-13.76 -7.644)"/>
+      <path id="layer2-2" data-name="layer2" class="cls-1" d="M56,24.827A1.413,1.413,0,0,0,56,22" transform="translate(-41.28 -10.702)"/>
+      <path id="layer1-2" data-name="layer1" class="cls-1" d="M6.711,15.067h-3.3A1.413,1.413,0,0,1,2,13.653V11.769a1.413,1.413,0,0,1,1.413-1.413h4.24A12.955,12.955,0,0,0,14.72,8v9.422a11.872,11.872,0,0,0-7.067-2.356Z" transform="translate(0 0)"/>
+    </g>
+    <rect id="Rectangle_2367" data-name="Rectangle 2367" class="cls-2" width="25" height="25" transform="translate(21 400)"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #9f9f9f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="attach" transform="translate(-530 -731)">
+    <path id="paper-clip-icon--svg-png-----orion-icon-library" class="cls-1" d="M24.689,14.708V9.357a2.007,2.007,0,1,0-4.013,0v9.364a3.344,3.344,0,0,0,6.689,0V6.682a4.682,4.682,0,0,0-9.364,0v8.026" transform="translate(535.375 719.358) rotate(45)"/>
+    <rect id="Rectangle_2358" data-name="Rectangle 2358" class="cls-2" width="25" height="25" transform="translate(530 731)"/>
+  </g>
+</svg>

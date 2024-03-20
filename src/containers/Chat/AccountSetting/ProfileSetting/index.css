@@ -1,0 +1,16 @@
+.notificationTitleName{
+  color: #515C8B;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.ant-checkbox-wrapper {
+  color: #515C8B !important;
+  font-size: 15px !important;
+}
+.notificationWrapper {
+  margin-top: 20px;
+}
+.settings-container {
+  overflow-y: scroll;
+  height: 400px;
+}

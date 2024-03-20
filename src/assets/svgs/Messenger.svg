@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 668.347 160.351">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.41;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #e8e8e8;
+      }
+
+      .cls-2 {
+        font-size: 111px;
+        font-family: Lato-Black, Lato;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Group_1877" data-name="Group 1877" class="cls-1" transform="translate(-553 -170.298)">
+    <g id="Group_1846" data-name="Group 1846" transform="translate(553 170.298)">
+      <text id="MESSENGER" class="cls-2" transform="translate(0 110)"><tspan x="0" y="0">MESSENGER</tspan></text>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="13.191" cy="13.191" r="13.191" transform="translate(1194.965 304.267)"/>
+  </g>
+</svg>

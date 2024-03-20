@@ -1,0 +1,6 @@
+.git
+docs
+.jscrc
+.editorconfig
+.babelrc
+.gitignore

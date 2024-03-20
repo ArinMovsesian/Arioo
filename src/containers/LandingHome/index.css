@@ -1,0 +1,313 @@
+.hand-image-container div {
+  width: 400px;
+  height: 200px;
+}
+.preloaderIcon{
+  width: 100px;
+  height: 100px;
+  /*background-color: red;*/
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  text-align: center;
+}
+.messenger-img img {
+  width: 500px;
+  height: 100px;
+  margin-left: -50px;
+}
+
+.profile-view-container .stars-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1366px;
+  margin: auto;
+}
+
+.profile-view-container .stars-container .section1 {
+  display: flex;
+  flex-direction: row;
+  height: 700px;
+}
+
+.messenger-container {
+  width: 100%;
+  height: 500px;
+  margin-left: -200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.money-channel-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+}
+
+.money {
+  display: flex;
+  flex-direction: column;
+  width: 229px;
+  height: 108px
+}
+
+.money span {
+  color: #2A2E43;
+  font-size: 45px;
+  text-align: left;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.transfer {
+  color: #2A2E43;
+  font-size: 45px;
+  text-align: left;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.channel span {
+  color: #2A2E43;
+  font-size: 39px;
+  text-align: left;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.channel {
+  width: 206px;
+  height: 92px;
+  margin-left: 51px;
+}
+
+.profile-view-container .section2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1100px;
+  height: 750px;
+  margin: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.profile-view-container .section3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  max-width: 1100px;
+  height: 550px;
+  margin: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.profile-view-container .section4 {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 100%;
+  max-width: 1100px;
+  height: 600px;
+  margin: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.profile-view-container .section5 {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 100%;
+  max-width: 1100px;
+  height: 200px;
+  margin: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.profile-view-container .footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  max-width: 1100px;
+  height: 200px;
+  margin: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.download-ios button {
+  width: 176px;
+  height: 40px;
+  border-radius: 24px;
+  background-color: #2094FA;
+  color: #FFFFFF;
+  margin-bottom: 12px;
+}
+
+.download-android button {
+  width: 176px;
+  height: 40px;
+  border-radius: 24px;
+  background-color: #2094FA;
+  color: #FFFFFF;
+}
+
+.celeb-txt {
+  width: 100%;
+  height: 60px;
+}
+
+.celeb-txt span {
+  font-size: 40px;
+  color: #2A2E43;
+  font-weight: bold;
+  text-align: center;
+  margin-top: -20px;
+}
+
+.follow-txt{
+  margin-bottom: 58px;
+}
+
+.follow-txt span {
+  font-size: 20px;
+  color: #2A2E43;
+  text-align: center;
+}
+
+.ellipsis1 {
+  width: 116px;
+  height: 116px;
+}
+
+.ellipsis2 img {
+  width: 116px;
+  height: 116px;
+}
+
+.ellipsis2 {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.view-more-btn button {
+  width: 198px;
+  height: 54px;
+  border-radius: 27px;
+  background-color: #2094FA;
+  color: #FFFFFF;
+  margin-top: 48px;
+}
+
+.app-feature-container {
+  width: 517px;
+}
+
+.app-txt-wrap {
+  display: flex;
+  flex-direction: column;
+  width: 349px;
+  height: 96px;
+}
+
+.app-txt-wrap div {
+  width: 100%;
+  height: 96px;
+}
+
+.app-txt-wrap span {
+  color: #515C8B;
+  font-size: 40px;
+  text-align: left;
+  word-break: break-all;
+  line-height: 1px;
+  font-weight: bold;
+}
+
+.app-list {
+  padding-left: 0;
+  list-style-type: disc;
+}
+
+.app-list li {
+  width: 240px;
+  text-align: left;
+  padding: 12px 20px;
+}
+
+.app-list li span {
+  font-size: 15px;
+  color: #515C8B;
+  text-align: left;
+}
+
+.app-view-more {
+  text-align: left;
+  margin-left: 15px;
+}
+
+.app-view-more button {
+  width: 129px;
+  height: 34px;
+  background-color: #2094FA;
+  color: #FFFFFF;
+  border-radius: 17px;
+}
+
+
+.stars-logo-txt {
+  width: 100%;
+  margin-top: 12px;
+}
+
+.stars-logo-txt span {
+  color: #2A2E43;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.user_section5 {
+
+}
+.user_section5 span {
+  color: #515C8B;
+  font-size: 40px;
+}
+
+.celebs-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.celebs-container ul {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+}
+
+.celebs-container ul li {
+  display: flex;
+  height: 161px;
+  flex-direction: column;
+}
+
+.celebs-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 26px;
+  background-color: #E8E8E8;
+  margin-bottom: 31px;
+}

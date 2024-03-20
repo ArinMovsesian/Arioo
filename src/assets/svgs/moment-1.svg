@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a2e43;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="moment" transform="translate(-1161 -127)">
+    <path id="Icon_Background" data-name="Icon Background" class="cls-1" d="M0,6.5A6.5,6.5,0,0,1,6.5,0h16A6.5,6.5,0,0,1,29,6.5v16A6.5,6.5,0,0,1,22.5,29H6.5A6.5,6.5,0,0,1,0,22.5V6.5Z" transform="translate(1161 127)"/>
+    <g id="Group_72" data-name="Group 72" transform="translate(1146 -299)">
+      <g id="Group_1212" data-name="Group 1212">
+        <rect id="Rectangle_46" data-name="Rectangle 46" class="cls-2" width="11.949" height="8.763" rx="1" transform="translate(24 433)"/>
+        <rect id="Rectangle_48" data-name="Rectangle 48" class="cls-2" width="10.356" height="1.593" rx="0.797" transform="translate(24.797 443.272)"/>
+        <rect id="Rectangle_49" data-name="Rectangle 49" class="cls-2" width="7.169" height="1.593" rx="0.797" transform="translate(26.39 446.375)"/>
+      </g>
+    </g>
+  </g>
+</svg>

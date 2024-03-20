@@ -1,0 +1,113 @@
+/*contact-profile*/
+
+.contact-profile-wrap{
+  width: 266px;
+}
+
+.contact-profile-wrap .general-info{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+.username-wrap{
+  width: 100%;
+  text-align: left;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 10px 10px 10px 25px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+.info-container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  align-items: center;
+}
+
+.txt-info{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 11px;
+}
+
+.txt-info span{
+  font-size: 10px;
+  font-family: "Roboto Regular";
+  align-items: left;
+  line-height: 13px;
+  color: #495B80;
+  width: 100%;
+}
+.bio-icon-info{
+  background-image: url('../../../../assets/svgs/bio.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+
+.user-icon-info{
+  background-image: url('../../../../assets/svgs/username.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+.phone-icon-info{
+  background-image: url('../../../../assets/svgs/phone.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+.notif-icon-info{
+  background-image: url('../../../../assets/svgs/notification.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+.mom-icon-info{
+  background-image: url('../../../../assets/svgs/moment.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+
+.attach-photo-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 180px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+.photo-txt-wrap{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  padding: 5px;
+}
+
+.photo-txt-wrap span{
+  font-size: 9px;
+  text-align: left;
+  line-height: 11px;
+  color: #2A2E43;
+  margin-left: -22px;
+}
+
+.photo-txt-wrap a{
+  font-size: 9px;
+  text-align: left;
+  line-height: 11px;
+  color: #2094FA;
+}
+

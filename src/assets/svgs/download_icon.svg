@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="download_icon" transform="translate(-64 -1523)">
+    <path id="Path_989" data-name="Path 989" class="cls-1" d="M28,0A28,28,0,1,1,0,28,28,28,0,0,1,28,0Z" transform="translate(64 1523)"/>
+    <g id="ic_action_download" transform="translate(77 1536)">
+      <g id="Group_763" data-name="Group 763">
+        <rect id="Rectangle_345" data-name="Rectangle 345" class="cls-2" width="30" height="30"/>
+      </g>
+      <path id="Path_976" data-name="Path 976" class="cls-1" d="M16.6,5.753V21.121l-5-5a1.023,1.023,0,0,0-1.4,0h0a1.023,1.023,0,0,0,0,1.4l6.691,6.691a.944.944,0,0,0,.735.294h0a1.053,1.053,0,0,0,.735-.294l6.691-6.691a.988.988,0,0,0-1.4-1.4l-5.074,5V5.753a.973.973,0,0,0-.956-.956h0A.909.909,0,0,0,16.6,5.753Z" transform="translate(-2.627 -1.268)"/>
+      <path id="Path_977" data-name="Path 977" class="cls-1" d="M24.406,32.2H10.656a.973.973,0,0,0-.956.956h0a.973.973,0,0,0,.956.956h13.75a.973.973,0,0,0,.956-.956h0A.887.887,0,0,0,24.406,32.2Z" transform="translate(-2.568 -8.524)"/>
+    </g>
+  </g>
+</svg>

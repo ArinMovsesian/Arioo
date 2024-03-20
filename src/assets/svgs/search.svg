@@ -1,0 +1,22 @@
+<svg id="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_63" data-name="Group 63" transform="translate(7.682 7.679)">
+    <path id="Path_22" data-name="Path 22" class="cls-1" d="M105.9,36.2l3.424,3.424,2.663,2.663" transform="translate(-94.407 -24.756)"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="6.72" cy="6.72" rx="6.72" ry="6.72" transform="translate(0)"/>
+  </g>
+  <rect id="Rectangle_75" data-name="Rectangle 75" class="cls-2" width="33" height="33" transform="translate(0 0)"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.635 20.635">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f13a30;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="notification" transform="translate(-1121.146 -388.914)">
+    <path id="Icon_Background" data-name="Icon Background" class="cls-1" d="M0,4.625A4.625,4.625,0,0,1,4.625,0H16.01a4.625,4.625,0,0,1,4.625,4.625V16.01a4.625,4.625,0,0,1-4.625,4.625H4.625A4.625,4.625,0,0,1,0,16.01V4.625Z" transform="translate(1121.146 388.914)"/>
+    <g id="Group_1165" data-name="Group 1165">
+      <path id="Path_81" data-name="Path 81" class="cls-2" d="M2.668,5.337A2.668,2.668,0,1,0,0,2.668,2.668,2.668,0,0,0,2.668,5.337Z" transform="translate(1133.243 392.116)"/>
+      <path id="Path_82" data-name="Path 82" class="cls-2" d="M2.846,0H7.234A3.374,3.374,0,0,0,7.12.712H2.846A2.135,2.135,0,0,0,.712,2.846V8.539a2.135,2.135,0,0,0,2.135,2.135H8.539a2.135,2.135,0,0,0,2.135-2.135V4.265a3.371,3.371,0,0,0,.712-.114V8.539a2.846,2.846,0,0,1-2.846,2.846H2.846A2.846,2.846,0,0,1,0,8.539V2.846A2.846,2.846,0,0,1,2.846,0Z" transform="translate(1125.416 393.895)"/>
+    </g>
+  </g>
+</svg>

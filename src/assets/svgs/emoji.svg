@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #9f9f9f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="emoji" transform="translate(-1016 -731)">
+    <g id="Orion_happy-emoji" transform="translate(1018 733)">
+      <circle id="layer2" class="cls-1" cx="8.886" cy="8.886" r="8.886" transform="translate(2 2)"/>
+      <path id="layer1" class="cls-1" d="M25.479,28.936A5.48,5.48,0,0,1,16,28.847m.592-3.762a1.185,1.185,0,1,1,2.37,0m3.555,0a1.185,1.185,0,0,1,2.37,0" transform="translate(-9.853 -15.413)"/>
+    </g>
+    <rect id="Rectangle_2359" data-name="Rectangle 2359" class="cls-2" width="25" height="25" transform="translate(1016 731)"/>
+  </g>
+</svg>

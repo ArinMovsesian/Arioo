@@ -1,0 +1,19 @@
+.media-photo{
+  width: 77px;
+  height: 73px;
+  background-color: #2094FA;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.media-list{
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.media-list li {
+  margin: 6px 10px 6px 0;
+}

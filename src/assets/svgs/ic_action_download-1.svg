@@ -1,0 +1,18 @@
+<svg id="ic_action_download" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.029 16.029">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #2a2e43;
+      }
+    </style>
+  </defs>
+  <g id="Group_763" data-name="Group 763">
+    <rect id="Rectangle_345" data-name="Rectangle 345" class="cls-1" width="16.029" height="16.029"/>
+  </g>
+  <path id="Path_976" data-name="Path 976" class="cls-2" d="M13.49,5.3v8.211l-2.671-2.671a.546.546,0,0,0-.746,0h0a.546.546,0,0,0,0,.746l3.575,3.575a.5.5,0,0,0,.393.157h0a.563.563,0,0,0,.393-.157l3.575-3.575a.528.528,0,0,0-.746-.746l-2.711,2.671V5.3a.52.52,0,0,0-.511-.511h0A.486.486,0,0,0,13.49,5.3Z" transform="translate(-6.026 -2.908)"/>
+  <path id="Path_977" data-name="Path 977" class="cls-2" d="M17.557,32.2H10.211a.52.52,0,0,0-.511.511h0a.52.52,0,0,0,.511.511h7.346a.52.52,0,0,0,.511-.511h0A.474.474,0,0,0,17.557,32.2Z" transform="translate(-5.889 -19.55)"/>
+</svg>

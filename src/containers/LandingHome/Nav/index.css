@@ -1,0 +1,87 @@
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a{
+  color: #9F9F9F !important;
+}
+.ant-menu-dark .ant-menu-item-selected > a, .ant-menu-dark .ant-menu-item-selected > a:hover{
+  color: #9F9F9F !important;
+}
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a {
+  color: #9F9F9F !important;
+}
+
+.profile-view-container .ant-layout-header ul .ant-menu-item-selected {
+  border: none;
+}
+nav {
+  width: 100%;
+  height: 100%;
+  background-color: #FFF;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.mobileviewNav {
+  display: none;
+}
+
+.desktopviewNav {
+  display: block;
+}
+
+.mobileviewNav nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+.mobileviewNav nav ul li {
+  list-style-type: none;
+  text-align: center;
+  color: #707070;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.mobileviewNav nav ul li a {
+  color: #707070;
+}
+.desktopviewNav {
+  border-bottom: 1px solid #e8e8e8
+}
+.navigationUL li{
+  display: inline-block;
+  margin: 20px;
+}
+.navigationUL{
+    line-height: 34px;
+    border-bottom: 0px;
+    text-align: right;
+    margin-right: 100px;
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 700px) {
+  .mobileviewNav {
+    display: block;
+  }
+
+  .desktopviewNav {
+    display: none;
+  }
+}
+
+.mobileviewNav {
+  position: fixed !important;
+  width: 100% !important;
+  background-color: #FFFFFF !important;
+  z-index: 999;
+  /*right: 15px;*/
+}
+
+.desktopviewNav {
+  position: fixed !important;
+  width: 100% !important;
+  background-color: #FFFFFF !important;
+  z-index: 999;
+  /*right: 15px;*/
+}
+

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.971 31.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #495b80;
+        font-size: 17px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #1d42fc;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="arioo_logo" transform="translate(-21.406 -12.085)">
+    <text id="ARIOO" class="cls-1" transform="translate(67.376 39.645)"><tspan x="0" y="0">ARIOO</tspan></text>
+    <g id="Group_1142" data-name="Group 1142" transform="translate(21.406 12.085)">
+      <path id="Rectangle_2161" data-name="Rectangle 2161" class="cls-2" d="M15.187,0H25.831A15.187,15.187,0,0,1,41.018,15.187v13.9a1.287,1.287,0,0,1-1.287,1.287H15.187A15.187,15.187,0,0,1,0,15.187v0A15.187,15.187,0,0,1,15.187,0Z"/>
+      <path id="Rectangle_2162" data-name="Rectangle 2162" class="cls-3" d="M5.192,0H17.913a5.192,5.192,0,0,1,5.192,5.192V9.086a1.3,1.3,0,0,1-1.3,1.3H5.192A5.192,5.192,0,0,1,0,5.192v0A5.192,5.192,0,0,1,5.192,0Z" transform="translate(9.086 10.125)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+.group-text{
+  padding-left: 5px;
+}
+.next-btn{
+  padding-right: 10px;
+  padding-left: 20px;
+}
+.text-muted{
+  color: #BBBBBB;
+  font-size: 12px;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-align: center;
+  margin-left:27px;
+  margin-bottom: 10px;
+  align-items: center;
+}

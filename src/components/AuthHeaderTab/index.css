@@ -1,0 +1,10 @@
+.ant-tabs-tab-inner span{
+  color: #2094FA;
+  font-size: 15px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.ant-tabs-bar {
+  border-bottom: none!important;
+}

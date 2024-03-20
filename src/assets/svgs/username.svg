@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.612 20.126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2094fa;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 14px;
+        font-family: Roboto-Regular, Roboto;
+      }
+    </style>
+  </defs>
+  <g id="username" transform="translate(-1121.146 -223.639)">
+    <path id="Icon_Background" data-name="Icon Background" class="cls-1" d="M0,4.493A4.558,4.558,0,0,1,4.62,0H15.992a4.558,4.558,0,0,1,4.62,4.493V15.552a4.558,4.558,0,0,1-4.62,4.493H4.62A4.558,4.558,0,0,1,0,15.552V4.493Z" transform="translate(1121.146 223.721)"/>
+    <text id="_" data-name="@" class="cls-2" transform="translate(1130.698 236.639)"><tspan x="-6.286" y="0">@</tspan></text>
+  </g>
+</svg>

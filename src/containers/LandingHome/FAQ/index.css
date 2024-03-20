@@ -1,0 +1,144 @@
+.faq_main {
+  margin-top: 104px;
+}
+
+.faq_container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.faq_left {
+  padding-top: 100px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0; /* required */
+}
+
+.faq_left h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #2A2E43;
+}
+
+.faq_left ul {
+  padding: 0;
+  margin: 0;
+}
+
+.faq_left ul li {
+  margin-top: 25px;
+  width: 30%;
+  text-align: left;
+
+}
+
+.faq_left ul li a {
+  font-size: 12px;
+  color: #2A2E43;
+  background-color: transparent;
+  width: 100%;
+  display: block;
+  padding: 10px 15px;
+  text-decoration: unset;
+}
+
+.faq_left ul li a:hover {
+  color: #FFF;
+  background-color: #2094FA;
+}
+
+.faq_right {
+  padding-top: 100px;
+  margin-bottom: 30px;
+}
+
+.faq_right.faq_title {
+  font-size: 15px;
+  color: #2A2E43;
+}
+
+.faq_right .faq_line {
+  height: 1px;
+  background-color: #E8E8E8;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+.faq_right .faq_line div {
+  width: 55%;
+  height: 1px;
+  background-color: #2094FA;
+}
+
+.ant-collapse-header .arrow {
+  color: #2094FA;
+}
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .faq_container {
+    width: 90%;
+  }
+
+  .faq_left ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  .faq_left ul li {
+    margin-top: 25px;
+    width: 100%;
+    text-align: left;
+
+  }
+
+  .faq_left ul li a {
+    font-size: 12px;
+    color: #2A2E43;
+    background-color: transparent;
+    width: 100%;
+    display: block;
+    padding: 10px 15px;
+    text-decoration: unset;
+  }
+
+  .faq_left ul li a:hover {
+    color: #FFF;
+    background-color: #2094FA;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+  .faq_container {
+    width: 100%;
+  }
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+  .faq_container {
+    width: 750px;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  .faq_container {
+    width: 970px;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  .faq_container {
+    width: 1170px;
+  }
+}

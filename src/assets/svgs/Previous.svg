@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9f9f9f;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Previous" transform="translate(-3.603 -2.603)">
+    <path id="Path_1002" data-name="Path 1002" class="cls-1" d="M18.669,15.371l6.087-3.514a1.753,1.753,0,0,1,2.636,1.506v7.028A1.733,1.733,0,0,1,24.756,21.9l-6.087-3.514A1.715,1.715,0,0,1,18.669,15.371Z" transform="translate(-6.596 -4.301)"/>
+    <path id="Path_1003" data-name="Path 1003" class="cls-1" d="M7.3,15.371l6.087-3.514a1.753,1.753,0,0,1,2.636,1.506v7.028A1.733,1.733,0,0,1,13.384,21.9L7.3,18.383A1.762,1.762,0,0,1,7.3,15.371Z" transform="translate(-2.378 -4.301)"/>
+    <rect id="Rectangle_2357" data-name="Rectangle 2357" class="cls-2" width="19" height="19" transform="translate(22.603 21.603) rotate(180)"/>
+  </g>
+</svg>

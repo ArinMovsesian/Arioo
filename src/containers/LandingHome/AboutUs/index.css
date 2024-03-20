@@ -1,0 +1,131 @@
+.aboutus_main_desktop {
+  margin-top: 84px;
+}
+
+.aboutus_firstSection .leftPart {
+  width: 70%;
+  height: 300px;
+  /*margin: 0 auto;*/
+  float: right;
+  margin-right: 30px;
+  margin-top: 50px;
+}
+
+.aboutus_firstSection .leftPart img {
+  width: 100%;
+  height: 100%;
+}
+
+.aboutus_firstSection .rightPart {
+  width: 70%;
+  border: none;
+  /*margin: 0 auto;*/
+  margin-top: 100px;
+}
+
+.aboutus_firstSection .rightPart h1 {
+  font-size: 20px;
+  color: #2094FA;
+  font-weight: bold;
+}
+
+.aboutus_firstSection .rightPart p {
+  font-size: 20px;
+  color: #2A2E43;
+  line-height: 27px;
+  font-weight: normal;
+}
+
+.aboutus_secondSection .aboutUs_flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems {
+  width: 150px;
+  height: auto;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems {
+
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems .aboutUs_OurTeam_imageContainer {
+  position: relative;
+  border-radius: 26px;
+  overflow: hidden;
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems .aboutUs_OurTeam_imageContainer img {
+  width: 100%;
+
+}
+
+.aboutUs_flexItems figure figcaption {
+  color: #2A2E43;
+  font-size: 24px;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  /* background-color: red; */
+  height: auto;
+  line-height: 23px;
+  margin-top: 10px;
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems .aboutUs_OurTeam_imageContainer div {
+  width: 100%;
+  height: 0;
+  background-color: lightgray;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  -webkit-transition: height 0.3s linear; /* Safari */
+  transition: height 0.3s linear;
+}
+
+.aboutus_secondSection .aboutUs_flex-container .aboutUs_flexItems .aboutUs_OurTeam_imageContainer:hover div {
+  height: 40px;
+}
+
+.AboutUs_releaseNote {
+  width: 70%;
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
+  .aboutus_firstSection .leftPart {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .aboutus_firstSection .rightPart {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .aboutus_secondSection .aboutUs_flex-container {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .AboutUs_releaseNote {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .AboutUs_OurGoal {
+    padding: 10px;
+  }
+
+}

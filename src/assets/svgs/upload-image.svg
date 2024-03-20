@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.812 54.812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="camera-icons---free-download--png-and-svg_1_" data-name="camera-icons---free-download--png-and-svg (1)" transform="translate(-37.8 -37.8)">
+    <g id="Group_1368" data-name="Group 1368" transform="translate(37.8 37.8)">
+      <path id="Path_1013" data-name="Path 1013" class="cls-1" d="M0,54.812V0H54.812V54.812Z" transform="translate(0 0)"/>
+      <g id="Group_1367" data-name="Group 1367" transform="translate(8.88 13.496)">
+        <g id="surface1" transform="translate(0 0)">
+          <path id="Path_1014" data-name="Path 1014" class="cls-2" d="M13.539,20.354a2.165,2.165,0,0,0-2,.98l-1.826,3.3H7.036A6.751,6.751,0,0,0,0,31.755V43.334a6.949,6.949,0,0,0,6.947,6.947H30.105a6.949,6.949,0,0,0,6.947-6.947V31.577a6.949,6.949,0,0,0-6.947-6.947H27.344l-1.826-3.3a2.216,2.216,0,0,0-2-.98ZM5.7,27.3a1.6,1.6,0,1,1-1.6,1.6A1.59,1.59,0,0,1,5.7,27.3Zm12.826.089A10.065,10.065,0,1,1,8.462,37.455,10.069,10.069,0,0,1,18.526,27.39Zm0,3.207a6.858,6.858,0,1,0,6.858,6.858A6.861,6.861,0,0,0,18.526,30.6Z" transform="translate(0 -20.354)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

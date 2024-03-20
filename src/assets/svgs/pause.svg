@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2094fa;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="pause" transform="translate(-559 -77)">
+    <g id="Group_1279" data-name="Group 1279">
+      <path id="pause-icons---free-download--png-and-svg" class="cls-1" d="M7.4,4A1.377,1.377,0,0,0,6,5.358V17.579a1.377,1.377,0,0,0,1.4,1.358h1.4a1.377,1.377,0,0,0,1.4-1.358V5.358A1.377,1.377,0,0,0,8.793,4Zm8.378,0a1.377,1.377,0,0,0-1.4,1.358V17.579a1.377,1.377,0,0,0,1.4,1.358h1.4a1.377,1.377,0,0,0,1.4-1.358V5.358A1.377,1.377,0,0,0,17.171,4Z" transform="translate(556 75)"/>
+      <rect id="Rectangle_2355" data-name="Rectangle 2355" class="cls-2" width="19" height="19" transform="translate(559 77)"/>
+    </g>
+  </g>
+</svg>

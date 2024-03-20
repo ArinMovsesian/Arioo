@@ -1,0 +1,117 @@
+.profile-view-container {
+  overflow-y: auto;
+}
+
+.leftPart {
+
+}
+.leftPart .avatar {
+  width: 84px;
+  height: 84px;
+  background-color: #E8E8E8;
+  border-radius: 26px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.58);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.58);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.58);
+  margin-top: 20px;
+}
+.leftPart .avatar-name {
+  font-size: 16px;
+  color: #2A2E43;
+  margin-top: 30px;
+}
+.leftPart .avatar-desc {
+  font-size: 15px;
+  margin-top: 20px;
+  color: #000000;
+  text-align: left;
+  line-height: 18px;
+}
+.leftPart .avatar-dateOfRegistration span{
+  font-size: 15px;
+  color: #2A2E43
+}
+.leftPart .avatar-dateOfRegistration h2 {
+  font-size: 15px;
+  color: #9F9F9F;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.leftPart .avatar-SocialIDs span{
+  font-size: 15px;
+  color: #2A2E43
+}
+.leftPart .social_Icons {
+  margin-top: 10px;
+}
+.leftPart .send-message-btn {
+  border-radius: 20px;
+  background-color: #2094FA;
+  color: #FFF;
+  border: none;
+  padding: 12px 40px;
+  margin-top: 70px;
+  cursor: pointer;
+}
+.centerPart{
+  border-left: 1px solid #e8e8e8;
+}
+.centerPart .appGames h2{
+  font-size: 13px;
+  color: #9F9F9F;
+}
+.centerPart .appGames span{
+  font-size: 13px;
+  color: #2094FA;
+  margin-right: 40px;
+}
+.rightPart {
+  border-left: 1px solid #e8e8e8;
+}
+.rightPart h2 {
+  font-size: 13px;
+  color: #9F9F9F;
+}
+.rightPart span {
+  font-size: 13px;
+  color: #2094FA;
+}
+.centerPart .appGames .appGamesIconsContainer .appGamesIcon {
+  width: 58px;
+  height: 58px;
+  background-color: #E8E8E8;
+  border-radius: 15px;
+
+}
+.centerPart .appGames .appGamesIconsContainer span {
+  color: #2A2E43;
+  font-size: 13px;
+  width: 100%;
+  margin-top: 10px;
+  display: block;
+}
+
+.rightPart .startAvatarWrapper .startAvatar{
+  width: 49px;
+  height: 49px;
+  background-color: #E8E8E8;
+  border-radius: 15px;
+}
+.rightPart .startAvatarWrapper h2{
+  font-size: 15px;
+  color: #2A2E43;
+  margin-top: 5px;
+}
+.rightPart .startAvatarWrapper span{
+  font-size: 10px;
+  color: #9F9F9F;
+  display: block;
+  width: 100%;
+}
+.rightPart button {
+  color: #FFFF;
+  background-color: #2094FA;
+  padding: 6px 16px;
+  border: none;
+  border-radius: 12px;
+}
